@@ -8,9 +8,11 @@ O período de cada uma dessas médias é manipulável, podendo assim gerar diver
 
 
 Abaixo um dos testes que realizei, os sinais de compra e venda no gráfico são representados pelos triangulos.     
-     
-MME_1 = Média móvel 1    
-MME_2 = Média móvel 2    
+
+- <u>Período:</u> 01/01/2024 até 25/03/2024         
+- <u>MME_1(Média móvel 1):</u> 7        
+- <u>MME_2(Média móvel 2 ):</u> 21
+- <u>Ação:</u> Petro Rio
 
 <img width="677" alt="image" src="https://github.com/MateusNaza/Estrategia_Cruzamento_de_Medias/assets/127886025/4587607a-ea7f-4cb5-ab87-103049017a5b">
 
