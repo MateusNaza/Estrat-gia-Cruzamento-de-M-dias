@@ -1,1 +1,1 @@
-# Estrat-gia-Cruzamento-de-M-dias
+# Estrategia_Cruzamento_de_Medias
