@@ -1,0 +1,1 @@
+# Estrat-gia-Cruzamento-de-M-dias
